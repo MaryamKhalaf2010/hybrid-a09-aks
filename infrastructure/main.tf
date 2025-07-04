@@ -1,4 +1,5 @@
 # Test PR to trigger GitHub Actions
+# Triggering fmt check
 
 
 provider "azurerm" {
